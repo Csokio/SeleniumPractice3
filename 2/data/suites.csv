@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat May 13 19:48:09 GMT 2023","Sat May 13 19:48:11 GMT 2023","2078","","TableTest","","TableTest","testIdEqualsFile","testIdEqualsFile()",""
+"passed","Sat May 13 19:48:12 GMT 2023","Sat May 13 19:48:14 GMT 2023","2071","","RadioTest","","RadioTest","testWriteToFile","testWriteToFile()",""
+"passed","Sat May 13 19:48:11 GMT 2023","Sat May 13 19:48:12 GMT 2023","510","","TableTest","","TableTest","testCountOfRows","testCountOfRows()",""
