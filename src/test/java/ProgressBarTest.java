@@ -1,10 +1,7 @@
-/*import BaseTest;
 import org.junit.Assert;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 //import org.testng.annotations.Test;
-
-import ProgressBarPage;
 
 
 public class ProgressBarTest extends BaseTest {
@@ -34,4 +31,4 @@ public class ProgressBarTest extends BaseTest {
         Assertions.assertEquals("Complete!", actual);
     }
 
-}*/
+}

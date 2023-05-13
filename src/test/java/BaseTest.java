@@ -9,7 +9,6 @@ import org.junit.jupiter.api.Test;
 public class BaseTest {
 
 
-
     @AfterAll
     public static void quitDriver()
     {
