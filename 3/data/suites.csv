@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat May 13 19:56:27 GMT 2023","Sat May 13 19:56:28 GMT 2023","448","","TableTest","","TableTest","testCountOfRows","testCountOfRows()",""
+"passed","Sat May 13 19:56:28 GMT 2023","Sat May 13 19:56:30 GMT 2023","1754","","RadioTest","","RadioTest","testWriteToFile","testWriteToFile()",""
+"passed","Sat May 13 19:56:02 GMT 2023","Sat May 13 19:56:23 GMT 2023","21275","","ProgressBarTest","","ProgressBarTest","testPercentText","testPercentText()",""
+"passed","Sat May 13 19:56:23 GMT 2023","Sat May 13 19:56:25 GMT 2023","2088","","ProgressBarTest","","ProgressBarTest","testSetSlider","testSetSlider()",""
+"passed","Sat May 13 19:55:53 GMT 2023","Sat May 13 19:56:02 GMT 2023","9113","","ProgressBarTest","","ProgressBarTest","testWaitDownload","testWaitDownload()",""
+"passed","Sat May 13 19:56:26 GMT 2023","Sat May 13 19:56:27 GMT 2023","1706","","TableTest","","TableTest","testIdEqualsFile","testIdEqualsFile()",""
